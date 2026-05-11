@@ -1,3 +1,4 @@
+![AI Finance Board](screenshot.png)
 # AI Finance Dashboard Pro
 
 **Full-stack financial analysis platform** built with Python and Streamlit.
